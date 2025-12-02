@@ -30,8 +30,8 @@ export default function Navbar() {
 
                 {/* Main Header */}
                 <div className="bg-white border-b border-gray-200">
-                    <div className="max-w-[1400px] mx-auto px-4 py-4">
-                        <div className="flex items-center gap-6">
+                    <div className="max-w-[1400px] mx-auto px-[50px] h-[104px] flex items-center">
+                        <div className="flex items-center justify-between gap-6 w-full">
                             <Logo />
                             <SearchBar
                                 selectedCategory={selectedCategory}

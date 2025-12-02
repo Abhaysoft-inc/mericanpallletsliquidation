@@ -29,7 +29,7 @@ export const categories = [
 export const shopCategories = [
     { name: 'Authentic Perfumes', href: '/product-category/authentic-perfumes' },
     { name: 'DeWalt', href: '/product-category/dewalt' },
-    { name: 'Ps5', href: '/product-category/ps5' },
+
     { name: 'Household', href: '/product-category/household' },
     { name: 'Truckload', href: '/product-category/truckload' },
     { name: 'Milwaukee', href: '/product-category/milwaukee' },
@@ -39,12 +39,7 @@ export const shopCategories = [
     { name: 'Mix tools', href: '/product-category/mix-tools' },
     { name: 'Mystery Boxes', href: '/product-category/mystery-boxes' },
     { name: 'Home Depot', href: '/product-category/home-depot' },
-    { name: 'Amazon', href: '/product-category/amazon' },
-    { name: 'Clothes', href: '/product-category/clothes' },
-    { name: "Marcy's", href: '/product-category/marcys' },
-    { name: 'Target', href: '/product-category/target' },
-    { name: 'Female Bag Pallets', href: '/product-category/female-bag-pallets' },
-];
+]
 
 export const mainMenu = [
     { name: 'Home', href: '/' },
